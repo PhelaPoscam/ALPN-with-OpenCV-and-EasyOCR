@@ -1,1 +1,1 @@
-ALPN-with-OpenCV-and-EasyOCR
+ALPR-with-OpenCV-and-EasyOCR
